@@ -1,0 +1,10 @@
+Sirzech,3
+Sirzech,0
+Sirzech,0
+Sirzech,5
+Sirzech,1000
+AAA,0
+AAA,0
+AAA,6168
+AAA,8183
+AAA,107
